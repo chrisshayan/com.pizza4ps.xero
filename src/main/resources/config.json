@@ -1,0 +1,9 @@
+{
+  "AppType": "PUBLIC",
+  "ConsumerKey": "YOUR_CONSUMER_KEY",
+  "ConsumerSecret": "YOUR_CONSUMER_SECRET",
+  "CallbackBaseUrl": "https://localhost",
+  "CallbackPath": "/CallbackServlet",
+
+  "XeroLotteCustomerId": "14e7e1b5-b74f-41af-a7e8-20d5b04a2974"
+}
